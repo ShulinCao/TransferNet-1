@@ -30,7 +30,7 @@ If you find this code useful in your research, please cite
 - shutil
 
 ## Prepare Datasets
-- [MetaQA](https://goo.gl/f3AmcY), we only use its vanilla version.
+- [MetaQA](https://cloud.tsinghua.edu.cn/f/06d522c2ab384c789f0b/?dl=1), we only use its vanilla version.
 - [MovieQA](http://www.thespermwhale.com/jaseweston/babi/movieqa.tar.gz), we need its `knowledge_source/wiki.txt` as the text corpus for our MetaQA-Text experiments. Copy the file into the folder of MetaQA, and put it together with `kb.txt`. The files of MetaQA should be something like
 ```shell
 MetaQA
